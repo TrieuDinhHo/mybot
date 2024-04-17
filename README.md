@@ -41,3 +41,4 @@ rviz2 -d src/mybot/config/slam_sim.rviz
 ros2 launch mybot navigation_launch.py use_sim_time:=false map_subcribe_transient_local:=true
 ```
 ## Demo Video
+https://github.com/TrieuDinhHo/mybot/assets/122219255/e9ba4121-5dbd-4559-af5e-806b6a390224
